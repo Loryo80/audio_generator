@@ -22,7 +22,7 @@ A Streamlit application that converts PDF and DOCX documents into audiobooks usi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/audio_generator.git
+   git clone https://github.com/Loryo80/audio_generator.git
    cd audio_generator
    ```
 
