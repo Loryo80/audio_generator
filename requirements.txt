@@ -1,0 +1,11 @@
+streamlit>=1.25.0
+fal-client>=0.3.0
+python-docx2txt>=0.8.0
+PyPDF2>=3.0.0
+python-dotenv>=1.0.0
+requests>=2.28.0
+uuid>=1.30
+wave>=0.0.2
+typing-extensions>=4.5.0
+pillow>=9.5.0
+pydub>=0.25.1 
